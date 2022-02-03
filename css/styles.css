@@ -1,0 +1,30 @@
+body {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMVGwXwvX8UZUmHgYmWG7ckRrGJIKzwSe3OQ&usqp=CAU);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-color: black;
+cursor:crosshair;}
+body {text-align: center;
+    border-style: groove;
+    border-color: goldenrod;
+    border-width: thick;
+    border-radius: 25%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+img {border-style:groove;
+border-color:goldenrod;
+border-radius: 25%;}
+i {color: red;
+text-decoration-line:underline;
+text-decoration-color:rgb(184, 143, 40);
+border-style: ridge;
+border-color:rgb(184, 143, 40);
+border-radius: 20%}
+h1 {color: rgb(180, 149, 69);}
+h2 {color: rgb(179, 145, 59);}
+h3 {color: rgb(182, 157, 74);}
+p {color: rgb(85, 112, 148);
+font-size:larger;}
+li {color: rgb(184, 143, 40);
+border-style: solid;
+border-radius: 15%}
+b {color:rgb(184, 143, 40)}
